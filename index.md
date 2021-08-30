@@ -5,9 +5,7 @@
 </head>
 <body>
 
-<h1>My First Heading
-  Santiago Rios Hernandes 
-  Lua</h1>
+<h1>My First Heading Santiago Rios Hernandez Lua</h1>
 <p>My First paragraph![image](https://user-images.githubusercontent.com/89798748/131379057-d8c459ee-dae4-4aea-ad16-c7e06982c59a.png)
 </p>
 
